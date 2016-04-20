@@ -1,21 +1,21 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: b2a217763ebce8e7746c60ca8c5e94d186a75c55
+# sw.version: 7babe727585085968528977a88e0f045347ad1ce
 # sw.file.hash: 9e27270431dd0e36213a0a0d1aafbd1faa409265
 /app.js
 # sw.file.hash: a694ddf1b9e159301ce22afb9ec5f28504524dcb
 /app.js.map
-# sw.file.hash: 34522a441d0c2c40079bc0f65f030eb825d5cada
+# sw.file.hash: c6d76fad250387459abf07aade12d241a3bbe703
 /app/book-details/book-details.component.js
-# sw.file.hash: 4f66f3cbcfd7fbb69e07f93797064eee2d301915
+# sw.file.hash: b3631d242244a57687aad599eab734e1483ad0da
 /app/book-details/book-details.component.js.map
 # sw.file.hash: 2b7a3d279ad2fd3d35eb66d18ce839434558c983
 /app/book-details/book-details.html
 # sw.file.hash: 8be54268931d4775a32ac3900deb86d1169d643f
 /app/book-list/book-list.component.html
-# sw.file.hash: 560521fc6218d35f2b423abce5b78f3518af5c84
+# sw.file.hash: 4e0d39feef981bff13841fb994b1b47cb392d505
 /app/book-list/book-list.component.js
-# sw.file.hash: 57d6c78262d9515b1f9060e49d7a301188718128
+# sw.file.hash: 556d1183780a27d5d43f5e94a9ad2a3d6c1dc0a6
 /app/book-list/book-list.component.js.map
 # sw.file.hash: c092743ed3c837edee15673f9fda99a5cca9bd8c
 /app/book-list/book-list.component.spec.js
@@ -23,16 +23,16 @@ CACHE MANIFEST
 /app/book-list/book-list.component.spec.js.map
 # sw.file.hash: 8b52118df85f21d697bea2090aa3fb363732a636
 /app/book-monkey.js
-# sw.file.hash: bfa5460422a927636d7ac65edafc1766e62c0d55
+# sw.file.hash: 9cf3ae28831ebdceee9a9215c26b2bdf0adf2cdf
 /app/book-monkey.js.map
 # sw.file.hash: f294c81d0629caea277b0a073a992de7dbe53f2a
-/domain/book.js
+/app/domain/book.js
 # sw.file.hash: 3098f00b7eac968ba6a017c7520f9d15da906d06
-/domain/book.js.map
+/app/domain/book.js.map
 # sw.file.hash: fb8f417d9e7565256d9ea3d3f8536cf69110678f
-/domain/thumbnail.js
+/app/domain/thumbnail.js
 # sw.file.hash: aa598f799f737d739b4f579eeec4c8ca70bf7e26
-/domain/thumbnail.js.map
+/app/domain/thumbnail.js.map
 # sw.file.hash: 84161b857f5c547e3699ddfbffc6d8d737542e01
 /favicon.ico
 # sw.file.hash: 980242aafb28307dcf9cb58b212dbd545352ff93
