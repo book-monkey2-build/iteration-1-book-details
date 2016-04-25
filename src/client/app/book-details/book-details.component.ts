@@ -8,11 +8,7 @@ import {Book, Thumbnail} from '../domain/book';
 })
 export class BookDetailsComponent {
   @Input() book: Book;
-
   @Output() showListEvent:EventEmitter<any> = new EventEmitter();
-
-
-  constructor() { }
 
   getRating(num: number){
     return new Array(num);
@@ -21,5 +17,4 @@ export class BookDetailsComponent {
   showBookList(){
     this.showListEvent.emit(0);
   }
-
 }
