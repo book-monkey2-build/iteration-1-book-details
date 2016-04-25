@@ -1,13 +1,13 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: 64c56a103920932268eaa014058db9023bb06fdb
+# sw.version: 7aabb5746dfc8ed552859278b566a0b9ab3dc245
 # sw.file.hash: 9e27270431dd0e36213a0a0d1aafbd1faa409265
 /app.js
 # sw.file.hash: a694ddf1b9e159301ce22afb9ec5f28504524dcb
 /app.js.map
 # sw.file.hash: c6d76fad250387459abf07aade12d241a3bbe703
 /app/book-details/book-details.component.js
-# sw.file.hash: b3631d242244a57687aad599eab734e1483ad0da
+# sw.file.hash: dec8da8c72690fe20af36c22baa8b14921b0dde1
 /app/book-details/book-details.component.js.map
 # sw.file.hash: 2b7a3d279ad2fd3d35eb66d18ce839434558c983
 /app/book-details/book-details.html
@@ -21,7 +21,7 @@ CACHE MANIFEST
 /app/book-list/book-list.component.html
 # sw.file.hash: b5bd78808a77a170c937e25a13b89dc7b01fa19f
 /app/book-list/book-list.component.js
-# sw.file.hash: 71977d55f5533ded0923bf36eb92afad205fc508
+# sw.file.hash: f067f1f0bd6f0576ffe8204523f1d864422f94ae
 /app/book-list/book-list.component.js.map
 # sw.file.hash: c092743ed3c837edee15673f9fda99a5cca9bd8c
 /app/book-list/book-list.component.spec.js
